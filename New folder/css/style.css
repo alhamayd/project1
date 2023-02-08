@@ -1,0 +1,37 @@
+body{
+
+height: 5000px;
+
+
+}
+
+
+
+
+div{
+
+    background-color: blueviolet;
+    width: 500px;
+    height: 600px;
+}
+.alaa{
+    color:green;
+}
+
+#mo{
+
+color:rgb(157, 216, 19);
+
+}
+.div0{
+
+
+    background-color:
+green;
+width:400px;
+height:500;
+/*margin-left: 300px;
+margin:499px px px 200px;*/
+margin:auto;
+text-align: center;
+}
